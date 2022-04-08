@@ -1,0 +1,21 @@
+{
+    "name": "daisy",
+    "displayName": "Daisy Theme",
+    "description": "Light color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Daisy",
+                "uiTheme": "vs",
+                "path": "./themes/Daisy-theme.json"
+            }
+        ]
+    }
+}
